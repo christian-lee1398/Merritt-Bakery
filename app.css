@@ -60,6 +60,18 @@ nav {
     float: right;
 }
 
+#cookies{
+    padding-top: 200px;
+}
+
+#shipping{
+    padding-top: 130px;
+}
+
+#wedding{
+    padding-top: 130px;
+}
+
 .nav-link{
     background: none;
     color: #555B6E;
